@@ -3,7 +3,9 @@ title: Fake Scene Presenter
 ---
 
 # Overview
-Fake Scene Presenter is a versatile Unreal Engine plugin designed to facilitate experiments in cognitive psychology that focus on scene perception, understanding, and memory. This tool empowers researchers to create, present, and analyze virtual environments with precision and ease.
+Fake Scene Presenter is a versatile Unreal Engine plugin designed to facilitate experiments in cognitive psychology that focus on scene perception, understanding, and memory. This tool empowers researchers to create, present, and analyze experiments using virtual scene presentations.
+
+![Alt text](../../assets/img/image-3.png)
 
 ## Key Features
 
@@ -19,3 +21,6 @@ FSP plugin currently runs on Unreal engine 4.26 and 4.27. Unreal engine 5 is not
 
 The plugin still requires some knowledge of Unreal Engine. If you have delievered a single experiment in EU, you should be ready to use it.
 
+## Acknowledgements
+
+Package development has been sponsored by the GACR project XYXXYX

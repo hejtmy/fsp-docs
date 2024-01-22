@@ -1,3 +1,0 @@
----
-title: Data output demo
----
