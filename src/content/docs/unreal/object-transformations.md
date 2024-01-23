@@ -49,24 +49,24 @@ In most experiments, you want each screenshot to feature only a single change. B
 
 ### Material transformation
 
-Material transformation takes original and a new material as parameters to be set.
+Material transformation takes original and a new material as parameters to be set. 
 
 ![Untitled](../../../assets/img/Untitled_27.png)
 
 ### Transform Transformation
 
-Transform takes 
+Transform takes the full transform parameters. You can change locations, rotation or scale. You also need to determine, which parameters you might want to change. Before setting the parameters, do not forget to click "set original values" button, to mark the original position of the object
 
 ![Untitled](../../../assets/img/Untitled_28.png)
 
 ### Visibility transformation
 
-This has only a single parameter to set 
+This has only a single parameter to set. The Show on Start determines if the object will hide or show during tranformation. Show on Start means that the transformation will hide it, leaving it unchecked will make the object appear. You can use this transformation to make certain objects switch between one another (one hides, the other one appears)
 
 ![Untitled](../../../assets/img/Untitled_29.png)
 
 ## Applying transformation
 
-You can apply all transformations on a particular set of objects in the fsp ediotr mode by selecting the group of transformation you want and then click on transform all objects
+You can apply all transformations on a particular set of objects in the fsp ediotr mode by entering the group of transformation you want and then click on transform all objects 
 
 ![Untitled](../../../assets/img/Untitled_30.png)

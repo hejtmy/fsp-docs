@@ -12,4 +12,4 @@ Part of the unreal package is a R package that is used to process the data. The 
 remotes::install_github("hejtmy/fspr")
 ```
 
-The package is still in development, so expect some changes in the future.
+The package is still in development, so expect some changes in the future. 

@@ -23,4 +23,6 @@ The plugin still requires some knowledge of Unreal Engine. If you have delievere
 
 ## Acknowledgements
 
-Package development has been sponsored by the GACR project XYXXYX
+Package development has been sponsored by the GACR project 20-06894S.
+
+![Logo GACR](../../assets/img/logo-gacr-colourlogo.png)
